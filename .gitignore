@@ -40,3 +40,5 @@ JLink*.*
 
 build*/
 output/
+
+.vscode/

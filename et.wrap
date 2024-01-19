@@ -1,0 +1,8 @@
+[wrap-git]
+url = https://github.com/calebrjc/Embedded-Test.git
+revision = main
+depth = 1
+
+[provide]
+et = et_dep
+et-host = et_host_dep
